@@ -1,2 +1,2 @@
 # Dashboard
-Data dashboard
+Data dashboard.
